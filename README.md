@@ -1,4 +1,4 @@
-![Header]([https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DarkSide&desc=A%20Self%20Taught%20programmer!](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=DarkSide))
+![Header](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=DarkSide)
 
 <p align="center">     
   <strong>Find me on.</strong>
