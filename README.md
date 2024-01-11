@@ -1,16 +1,18 @@
-### Hi there 👋
+![Header]([https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DarkSide&desc=A%20Self%20Taught%20programmer!](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=DarkSide))
 
-<!--
-**ZeDarkSide/ZeDarkSide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">     
+  <strong>Find me on.</strong>
+</p>
+<p align="center">
+  <a target="_blank" href="https://discord.com/users/653805970610192394"><img src="https://img.shields.io/badge/%40chancethekiller900-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a target="_blank" href="https://www.youtube.com/channel/UCiWLHdObmyRH-aaOa5V7fLA"><img src="https://img.shields.io/badge/ZeDarkSide-FF0000?style=for-the-badge&logo=youtube" /></a>
+</p>
 
-Here are some ideas to get you started:
+# Hi there I'm Chance!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 17 year old self-taught programmer with bad grammer.
+
+I'm also a game developer.
+
+## Languages / Tools 
+![Skills](https://skillicons.dev/icons?i=ts,css,cpp,c,cs,java,linux,vscode,visualstudio,unity)
