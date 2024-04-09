@@ -2,9 +2,7 @@
 
 # Hi there I'm Chance!
 
-I'm a 17 year old self-taught programmer with bad grammer.
-
-I'm also a game developer.
+I'm 18 and self taught.
 
 ## Languages / Tools 
-![Skills](https://skillicons.dev/icons?i=ts,css,cpp,c,cs,java,linux,vscode,visualstudio,unity)
+![Skills](https://skillicons.dev/icons?i=ts,css,cpp,c,cs,java,linux,vscode,visualstudio,unity,idea)
