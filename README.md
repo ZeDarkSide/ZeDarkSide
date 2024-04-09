@@ -5,7 +5,7 @@
 I'm 18 and self taught.
 
 ## Things about me
-I'm a GameDev.
+I'm a GameDev.   
 iv been programming since I was 12.
 nothing else im not interesting!
 
