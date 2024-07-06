@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=DarkSide)
 
-# Hi there, I'm Chance! 👋
+# Hi there, I'm ██████ also known as ZeDarkSide! 👋
 
 I'm an 18-year-old self-taught Game Developer who's been passionate about programming.
 
