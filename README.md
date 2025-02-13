@@ -2,12 +2,12 @@
 
 # Hi there, I'm ██████ also known as ZeDarkSide! 👋
 
-I'm an 18-year-old self-taught Game Developer who's been passionate about programming.
+Just a programmer who don't know what to program 
 
 ## About Me
 - 🎮 GameDev enthusiast
-- 💻 Started programming at a young age
-- 🌱 Currently learning Java
+- 💻 Started programming in 2011
+- 🌱 Currently learning swift
 - 🐶 0-0
 
 ## Languages & Tools
