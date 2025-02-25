@@ -11,4 +11,4 @@ Just a programmer who don't know what to program
 - 🐶 0-0
 
 ## Languages & Tools
-![Tech Stack](https://skillicons.dev/icons?i=ts,css,cpp,c,cs,java,linux,vscode,visualstudio,unity,idea,swift)
+![Tech Stack](https://skillicons.dev/icons?i=ts,css,cpp,c,cs,java,swift,linux,vscode,visualstudio,unity,idea)
